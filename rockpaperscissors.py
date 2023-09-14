@@ -34,4 +34,6 @@ def startGame():
       print(f"Computer's choice was {randomPc}, you lost.")
       pcScore += 1
       scores()
-    
+
+
+startGame()    
